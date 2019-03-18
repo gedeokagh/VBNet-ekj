@@ -1,0 +1,744 @@
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.xml
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\APP\oka\fd\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe
+D:\APP\oka\fd\Ekajaya\Ekajaya\bin\Debug\Ekajaya.pdb
+D:\APP\oka\fd\Ekajaya\Ekajaya\bin\Debug\Ekajaya.xml
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.Form1.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\APP\oka\fd\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\APP\oka\mapp\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.config
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.xml
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\APP\oka\mapp\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+D:\APP\oka\mapp\Ekajaya\Ekajaya\bin\Debug\Ekajaya.application
+D:\APP\oka\mapp\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe
+D:\APP\oka\mapp\Ekajaya\Ekajaya\bin\Debug\Ekajaya.pdb
+D:\APP\oka\mapp\Ekajaya\Ekajaya\bin\Debug\Ekajaya.xml
+D:\APP\oka\mapp\Ekajaya\Ekajaya\bin\Debug\crdb_adoplus.dll
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+D:\APP\oka\mapp\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.application
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.config
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.application
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.pdb
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.xml
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\bin\Debug\crdb_adoplus.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmins.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmagentlist.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPayTiket.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTiketPrint.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.application
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.xml
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmColPay.resources
+E:\myfile\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.config
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.xml
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+E:\myfile\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+E:\myfile\Ekajaya\Ekajaya\bin\Debug\Ekajaya.application
+E:\myfile\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe
+E:\myfile\Ekajaya\Ekajaya\bin\Debug\Ekajaya.pdb
+E:\myfile\Ekajaya\Ekajaya\bin\Debug\Ekajaya.xml
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbprojResolveAssemblyReference.cache
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmins.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmagentlist.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmColPay.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPayTiket.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTiketPrint.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.GenerateResource.Cache
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+E:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.application
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintInv.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvPayment.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmlistEditTiket.resources
+D:\APP\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.config
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.xml
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\APP\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+D:\APP\Ekajaya\Ekajaya\bin\Debug\Ekajaya.application
+D:\APP\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe
+D:\APP\Ekajaya\Ekajaya\bin\Debug\Ekajaya.pdb
+D:\APP\Ekajaya\Ekajaya\bin\Debug\Ekajaya.xml
+D:\APP\Ekajaya\Ekajaya\bin\Debug\crdb_adoplus.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmins.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmagentlist.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmColPay.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvPayment.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmlistEditTiket.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPayTiket.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintInv.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTiketPrint.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.application
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe
+G:\myfile\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.config
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.xml
+G:\myfile\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Interop.VBIDE.dll
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.VBIDE.dll
+D:\APP\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelColPay.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.config
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.VBIDE.dll
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.xml
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+E:\Ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+E:\Ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.application
+E:\Ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe
+E:\Ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.pdb
+E:\Ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.xml
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmins.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmagentlist.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelColPay.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmColPay.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvPayment.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmlistEditTiket.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPayTiket.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintInv.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTiketPrint.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.application
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminReserv.resources
+E:\Ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmChangepass.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminReserv.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelColPay.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmChangepass.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmDriver.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmDriverlist.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLog.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCekBording.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEeditBooking.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintShuttle.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\bin\Debug\log4net.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.config
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Interop.VBIDE.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.xml
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\oka\ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+D:\oka\ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.application
+D:\oka\ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe
+D:\oka\ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.pdb
+D:\oka\ekajaya2\Ekajaya\Ekajaya\bin\Debug\Ekajaya.xml
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbprojResolveAssemblyReference.cache
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintShuttle.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminReserv.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmins.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmagentlist.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelColPay.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCekBording.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmChangepass.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmColPay.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmDriver.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmDriverlist.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEeditBooking.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvPayment.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmlistEditTiket.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLog.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPayTiket.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintInv.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTiketPrint.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.GenerateResource.Cache
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.application
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmColPays.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking3A.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEdit3ABooking.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.config
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\bin\Debug\Ekajaya.application
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\bin\Debug\Ekajaya.exe
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\bin\Debug\Ekajaya.pdb
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\bin\Debug\Ekajaya.xml
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Interop.VBIDE.dll
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEdit3ABooking.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking3A.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmColPays.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintShuttle.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminReserv.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmins.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmagentlist.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelColPay.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCekBording.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmChangepass.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmColPay.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmDriver.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmDriverlist.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEeditBooking.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvPayment.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmlistEditTiket.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLog.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPayTiket.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintInv.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTiketPrint.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.GenerateResource.Cache
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.application
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.exe
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.xml
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmEdit3ABooking.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking3A.resources
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmColPays.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelInvoice.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelPayment.resources
+D:\oka\project\Ekajaya V2\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminMan.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.vbprojResolveAssemblyReference.cache
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminMan.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelInvoice.resources
+D:\BckUp D FastBoat\INTRACSYS\APPS\Ekajaya\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelPayment.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\bin\Debug\Ekajaya.exe.config
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Interop.VBIDE.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.exe
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.xml
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\oka\project\Ekajaya V2\new\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+D:\oka\project\Ekajaya V2\new\Ekajaya\bin\Debug\Ekajaya.application
+D:\oka\project\Ekajaya V2\new\Ekajaya\bin\Debug\Ekajaya.exe
+D:\oka\project\Ekajaya V2\new\Ekajaya\bin\Debug\Ekajaya.pdb
+D:\oka\project\Ekajaya V2\new\Ekajaya\bin\Debug\Ekajaya.xml
+D:\oka\project\Ekajaya V2\new\Ekajaya\bin\Debug\crdb_adoplus.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\bin\Debug\log4net.dll
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminMan.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelInvoice.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelPayment.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEdit3ABooking.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking3A.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmColPays.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintShuttle.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminReserv.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmins.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmagentlist.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelColPay.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCekBording.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmChangepass.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmColPay.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmDriver.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmDriverlist.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEeditBooking.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmInvPayment.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmlistEditTiket.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmLog.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPayTiket.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintInv.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTiketPrint.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.application
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminAgent.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmBookingAgent.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBookingAgent.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTopSupport.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmProInv.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frm3AbookingAgent.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEdit3ABookingAgent.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAddAgentDeposit.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentListDeposit.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmListAgentDeposit.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTourList.resources
+D:\oka\project\Ekajaya V2\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTourOrder.resources
+D:\oka\new\Ekajaya\bin\Debug\Ekajaya.exe.config
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Interop.VBIDE.dll
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.xml
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\oka\new\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+D:\oka\new\Ekajaya\bin\Debug\Ekajaya.application
+D:\oka\new\Ekajaya\bin\Debug\Ekajaya.exe
+D:\oka\new\Ekajaya\bin\Debug\Ekajaya.pdb
+D:\oka\new\Ekajaya\bin\Debug\Ekajaya.xml
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.vbprojResolveAssemblyReference.cache
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frm3AbookingAgent.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAddAgentDeposit.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminAgent.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminMan.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentListDeposit.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmBookingAgent.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelInvoice.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelPayment.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEdit3ABooking.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking3A.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmColPays.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEdit3ABookingAgent.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBookingAgent.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmListAgentDeposit.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintShuttle.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmProInv.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTopSupport.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTourList.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTourOrder.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminReserv.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmins.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmagentlist.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelColPay.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCekBording.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmChangepass.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmColPay.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmDriver.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmDriverlist.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEeditBooking.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmInvPayment.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmlistEditTiket.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmLog.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPayTiket.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintInv.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTiketPrint.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.GenerateResource.Cache
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.application
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.exe
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmTourOrdeEdit.resources
+D:\oka\new\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminManager.resources
+D:\oka\new - Copy\Ekajaya\bin\Debug\Ekajaya.exe.config
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.CrystalAnalysisCommLayerLib.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.CrystalReportsControllersLib.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.CrystalReportsCubeDefModelLib.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.CrystalReportsDataDefModelLib.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.CrystalReportsReportDefModelLib.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Interop.VBIDE.dll
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.ResolveComReference.cache
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.exe
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.xml
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.pdb
+D:\oka\new - Copy\Ekajaya\bin\Debug\Ekajaya.exe.manifest
+D:\oka\new - Copy\Ekajaya\bin\Debug\Ekajaya.application
+D:\oka\new - Copy\Ekajaya\bin\Debug\Ekajaya.exe
+D:\oka\new - Copy\Ekajaya\bin\Debug\Ekajaya.pdb
+D:\oka\new - Copy\Ekajaya\bin\Debug\Ekajaya.xml
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.vbprojResolveAssemblyReference.cache
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frm3AbookingAgent.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAddAgentDeposit.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminAgent.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminMan.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminManager.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentListDeposit.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmBookingAgent.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelInvoice.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelPayment.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmEdit3ABooking.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking3A.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmColPays.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmEdit3ABookingAgent.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBookingAgent.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmListAgentDeposit.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintShuttle.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmProInv.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmTopSupport.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmTourList.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmTourOrdeEdit.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmTourOrder.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminReserv.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmins.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmagentlist.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmCancelColPay.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmCekBording.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmChangepass.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmColPay.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmDriver.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmDriverlist.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmEeditBooking.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmInvPayment.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmlistEditTiket.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmLog.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmMultiBooking.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmPayTiket.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintInv.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmPrintTikets.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmTiketPrint.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAdminRes.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAvailability.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmCollectPayment.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmOpenReturn.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmPort.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.FrmPrintTiketList.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAdmin.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAgent.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmAgentRate.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmArea.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmBooking.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmEditBooking.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmGenTiket.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmInvoicing.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmLogin.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmPromo.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmRute.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmSellBook.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmShutle.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmSpecial.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmSurcharge.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmTrip.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.frmUser.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.Resources.resources
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.vbproj.GenerateResource.Cache
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.exe.manifest
+D:\oka\new - Copy\Ekajaya\obj\x86\Debug\Ekajaya.application

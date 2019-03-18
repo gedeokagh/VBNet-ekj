@@ -1,0 +1,12 @@
+D:\oka\ekajaya2\Ekajaya\Ekajaya\bin\Release\Ekajaya.exe.config
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.CRREPORTSOURCEBRIDGELib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.CrystalActiveXReportViewerLib13.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.CrystalAnalysisCommLayerLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.CrystalReportsCommonObjectModelLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.CrystalReportsControllersLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.CrystalReportsCubeDefModelLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.CrystalReportsDataDefModelLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.CrystalReportsReportDefModelLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.CrystalReportViewerExportLib.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Interop.VBIDE.dll
+D:\oka\ekajaya2\Ekajaya\Ekajaya\obj\x86\Release\Ekajaya.vbproj.ResolveComReference.cache
